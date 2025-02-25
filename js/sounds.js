@@ -209,7 +209,7 @@ function listEsdSamples() {
 
         let esdDom = `
         <div  style="padding-top: 1rem;">${langName}: ${langItem.text}:</div>  
-        <div class="st-wrap">
+        <div class="st-wrap esd-width-wrap">
             <table>
                 <thead> <tr>
                             <th style="text-align: center">GT_Neutral</th>

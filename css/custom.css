@@ -199,3 +199,8 @@ blockquote cite {
 .st-wrap {
     padding: 0 0 2rem 0;
 }
+
+.esd-width-wrap {
+    width: 100%;
+    overflow-x: auto;
+}
